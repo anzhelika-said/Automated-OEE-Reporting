@@ -31,3 +31,5 @@ $$\text{OEE} = \text{Availability} \times \text{Performance} \times \text{Qualit
    ```bash
    python3 generate_shift_logs.py
    python3 oee_pipeline.py
+
+*Note: All datasets, supplier names, and financial figures in this repository are entirely synthetic and created for portfolio demonstration purposes.*
