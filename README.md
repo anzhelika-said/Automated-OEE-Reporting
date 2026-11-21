@@ -26,3 +26,8 @@ $$\text{OEE} = \text{Availability} \times \text{Performance} \times \text{Qualit
 1. Install dependencies:
    ```bash
    pip install pandas openpyxl matplotlib
+
+2. Generate sample shift logs and run the pipeline:
+   ```bash
+   python3 generate_shift_logs.py
+   python3 oee_pipeline.py
