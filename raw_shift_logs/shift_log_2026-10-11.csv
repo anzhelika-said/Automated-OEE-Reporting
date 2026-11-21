@@ -1,0 +1,13 @@
+Date,Shift,Machine_ID,Planned_Time_Min,Downtime_Min,Downtime_Reason,Ideal_Cycle_Sec,Total_Units,Scrap_Units
+2026-10-11,Morning,CNC-Mill-01,480,0,None,30,866,21
+2026-10-11,Morning,CNC-Mill-02,480,38,Tooling Changeover,30,861,31
+2026-10-11,Morning,Press-Line-A,480,0,None,30,944,19
+2026-10-11,Morning,Assembly-Cell-B,480,22,Sensor Calibration,30,860,30
+2026-10-11,Afternoon,CNC-Mill-01,480,35,Unplanned Maintenance,30,830,16
+2026-10-11,Afternoon,CNC-Mill-02,480,0,None,30,880,29
+2026-10-11,Afternoon,Press-Line-A,480,22,Sensor Calibration,30,898,39
+2026-10-11,Afternoon,Assembly-Cell-B,480,0,None,30,886,26
+2026-10-11,Night,CNC-Mill-01,480,0,None,30,890,35
+2026-10-11,Night,CNC-Mill-02,480,0,None,30,884,15
+2026-10-11,Night,Press-Line-A,480,86,Sensor Calibration,30,759,17
+2026-10-11,Night,Assembly-Cell-B,480,34,Sensor Calibration,30,809,10
